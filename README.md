@@ -17,3 +17,6 @@ main.py → UI と全体制御
 itunes_api.py → search_song(term)
 
 lyrics_api.py → get_vagalume_url(artist, track), get_lyrics(artist, track), get_lyrics_from_html(artist, track)
+
+## 改善案
+https://github.com/Shigematsu-Kaito/2306060005_-_AI-2/blob/main/improvement.md
